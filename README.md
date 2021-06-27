@@ -1,0 +1,2 @@
+# ThunderChatProject
+Django Chat project
